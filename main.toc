@@ -1,0 +1,90 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Physical setup}{2}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}The simplest case: smooth transverse space}{4}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Generalities}{4}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Matter content}{4}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Strings on orbifolds}{5}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Generalities}{5}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Twisted sector}{6}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Projection to daughter theory}{6}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Representation theory of the projection}{7}{subsection.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.1}Embedding of $\Gamma $ in the gauge group}{7}{subsubsection.3.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.2}Adjoint representation and bi-fundamental fields}{8}{subsubsection.3.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.3}Invariant configurations: general case}{8}{subsubsection.3.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.4}Bi-index notation}{10}{subsubsection.3.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Field content, quivers and McKay graphs}{10}{subsection.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}Gauge anomaly cancellation}{11}{subsection.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7}A simple example: $S=\mathbb {C}^3/\mathbb {Z}_3$}{12}{subsection.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.7.1}Projection}{12}{subsubsection.3.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.7.2}Quiver}{13}{subsubsection.3.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.7.3}Gauge anomaly cancellation}{14}{subsubsection.3.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Conformal invariance}{14}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Lagrangian}{15}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Finitude}{16}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Fractional branes}{17}{section.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}$\mathcal {N}=2$ daughter theories}{17}{section.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1}Generalities}{17}{subsection.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2}$S=\mathbb {C}\times \mathbb {C}^2/\mathbb {Z}_n$}{18}{subsection.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3}$S=\mathbb {C}\times \mathbb {C}^2/\mathcal {D}_n$}{20}{subsection.8.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4}$S=\mathbb {C}\times \mathbb {C}^2/\mathcal {T},\mathcal {O},\mathcal {I}$}{21}{subsection.8.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}$\mathcal {N}=1$ daughter theories}{21}{section.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1}$S=\mathbb {C}^3/\mathbb {Z}_n$}{21}{subsection.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.1}Actions of $\mathbb {Z}_n$ on $\mathbb {C}^3$}{22}{subsubsection.9.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.2}Example: $\mathbb {Z}_5$}{23}{subsubsection.9.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.1.3}General $\mathbb {Z}_n$}{25}{subsubsection.9.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2}$S=\mathbb {C}^3/\Delta (3n^2),\Delta (6n^2)$}{26}{subsection.9.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.3}$S=\mathbb {C}^3/\Sigma _{36\times 3},\Sigma _{60\times 3},\Sigma _{168\times 3},\Sigma _{216\times 3},\Sigma _{360\times 3}$}{26}{subsection.9.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.4}$S=\mathbb {C}^3/(\mathbb {Z}_m\times \mathbb {Z}_n)$}{26}{subsection.9.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.4.1}Representations of $\mathbb {Z}_m\times \mathbb {Z}_n$}{26}{subsubsection.9.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {9.4.2}Projection}{27}{subsubsection.9.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}A note about projective representations, discrete torsion and deformations}{28}{section.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1}Projective representations and discrete torsion}{28}{subsection.10.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2}Quiver gauge theories deformations and conifold}{29}{subsection.10.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}A note on $(p+1)$-dimensional quiver gauge theories}{29}{section.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12}Summary of orbifold worldvolume theories}{30}{section.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13}Classical McKay correspondence from strings}{30}{section.13}%

@@ -1,0 +1,319 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{johnson_1997}{article}{}
+      \name{author}{2}{}{%
+        {{hash=52fc317640fe25c8fe5137dfe135ecd4}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Clifford\bibnamedelima V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=e9b5a686901f974e970aa5603429ac99}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{1410f0973a0a12d9fbe14121b8d047a4}
+      \strng{fullhash}{1410f0973a0a12d9fbe14121b8d047a4}
+      \strng{bibnamehash}{1410f0973a0a12d9fbe14121b8d047a4}
+      \strng{authorbibnamehash}{1410f0973a0a12d9fbe14121b8d047a4}
+      \strng{authornamehash}{1410f0973a0a12d9fbe14121b8d047a4}
+      \strng{authorfullhash}{1410f0973a0a12d9fbe14121b8d047a4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{10}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{month}{5}
+      \field{title}{Aspects of type IIB theory on asymptotically locally Euclidean spaces}
+      \field{volume}{55}
+      \field{year}{1997}
+      \field{pages}{6382\bibrangedash 6393}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.55.6382
+      \endverb
+    \endentry
+    \entry{johnson_2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=52fc317640fe25c8fe5137dfe135ecd4}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Clifford\bibnamedelima V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{52fc317640fe25c8fe5137dfe135ecd4}
+      \strng{fullhash}{52fc317640fe25c8fe5137dfe135ecd4}
+      \strng{bibnamehash}{52fc317640fe25c8fe5137dfe135ecd4}
+      \strng{authorbibnamehash}{52fc317640fe25c8fe5137dfe135ecd4}
+      \strng{authornamehash}{52fc317640fe25c8fe5137dfe135ecd4}
+      \strng{authorfullhash}{52fc317640fe25c8fe5137dfe135ecd4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Cambridge Monographs on Mathematical Physics}
+      \field{title}{D-Branes}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1017/CBO9780511606540
+      \endverb
+    \endentry
+    \entry{vafa1998}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7d46cd12a2852b2850e5ddce797958d5}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Albion},
+           giveni={A\bibinitperiod}}}%
+        {{hash=467c3ac0d32f6d02d2be50798af6a1af}{%
+           family={Nekrasov},
+           familyi={N\bibinitperiod},
+           given={Nikita},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9bb2a2ed1567f070b3932817dc57b53f}{%
+           family={Vafa},
+           familyi={V\bibinitperiod},
+           given={Cumrun},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{4601784a035f9c011701276652a0fce1}
+      \strng{fullhash}{4601784a035f9c011701276652a0fce1}
+      \strng{bibnamehash}{4601784a035f9c011701276652a0fce1}
+      \strng{authorbibnamehash}{4601784a035f9c011701276652a0fce1}
+      \strng{authornamehash}{4601784a035f9c011701276652a0fce1}
+      \strng{authorfullhash}{4601784a035f9c011701276652a0fce1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0550-3213}
+      \field{journaltitle}{Nuclear Physics B}
+      \field{month}{11}
+      \field{number}{1-3}
+      \field{title}{On conformal field theories in four dimensions}
+      \field{volume}{533}
+      \field{year}{1998}
+      \field{pages}{199\bibrangedash 209}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/s0550-3213(98)00495-7
+      \endverb
+    \endentry
+    \entry{He:2018gvd}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a4fd5a8285710d8bd6688b748c7cc5fd}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yang-Hui},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4fd5a8285710d8bd6688b748c7cc5fd}
+      \strng{fullhash}{a4fd5a8285710d8bd6688b748c7cc5fd}
+      \strng{bibnamehash}{a4fd5a8285710d8bd6688b748c7cc5fd}
+      \strng{authorbibnamehash}{a4fd5a8285710d8bd6688b748c7cc5fd}
+      \strng{authornamehash}{a4fd5a8285710d8bd6688b748c7cc5fd}
+      \strng{authorfullhash}{a4fd5a8285710d8bd6688b748c7cc5fd}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics}
+      \field{number}{12}
+      \field{title}{{Quiver Gauge Theories: Finitude and Trichotomoty}}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{291}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/math6120291
+      \endverb
+    \endentry
+    \entry{https://doi.org/10.48550/arxiv.hep-th/9706110}{article}{}
+      \name{author}{3}{}{%
+        {{hash=52ae5dd750b2523d49c3d3050b260ba4}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7b33d289ec5e76c46bfcebd65e865b8b}{%
+           family={Mayr},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7048e38df35266414e76c17fa7030e08}{%
+           family={Vafa},
+           familyi={V\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{91f4cba1e4590ad3327e4ccb3ea8a1d5}
+      \strng{fullhash}{91f4cba1e4590ad3327e4ccb3ea8a1d5}
+      \strng{bibnamehash}{91f4cba1e4590ad3327e4ccb3ea8a1d5}
+      \strng{authorbibnamehash}{91f4cba1e4590ad3327e4ccb3ea8a1d5}
+      \strng{authornamehash}{91f4cba1e4590ad3327e4ccb3ea8a1d5}
+      \strng{authorfullhash}{91f4cba1e4590ad3327e4ccb3ea8a1d5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mirror symmetry and Exact Solution of 4D N=2 Gauge Theories I}
+      \field{year}{1997}
+      \verb{doi}
+      \verb 10.48550/ARXIV.HEP-TH/9706110
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/hep-th/9706110
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/hep-th/9706110
+      \endverb
+      \keyw{High Energy Physics - Theory (hep-th),Algebraic Geometry (math.AG),FOS: Physical sciences,FOS: Physical sciences,FOS: Mathematics,FOS: Mathematics}
+    \endentry
+    \entry{Hanany:1999sp}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b1824fbfcda4a6352151932d9518b215}{%
+           family={Hanany},
+           familyi={H\bibinitperiod},
+           given={Amihay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a4fd5a8285710d8bd6688b748c7cc5fd}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yang-Hui},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{fullhash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{bibnamehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{authorbibnamehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{authornamehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{authorfullhash}{8313b22ec75f880ac5049c17e4e28560}
+      \field{extraname}{1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{JHEP}
+      \field{title}{{A Monograph on the classification of the discrete subgroups of SU(4)}}
+      \field{volume}{02}
+      \field{year}{2001}
+      \field{pages}{027}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1126-6708/2001/02/027
+      \endverb
+      \verb{eprint}
+      \verb hep-th/9905212
+      \endverb
+    \endentry
+    \entry{Hanany_1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b1824fbfcda4a6352151932d9518b215}{%
+           family={Hanany},
+           familyi={H\bibinitperiod},
+           given={Amihay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a4fd5a8285710d8bd6688b748c7cc5fd}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yang-Hui},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{fullhash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{bibnamehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{authorbibnamehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{authornamehash}{8313b22ec75f880ac5049c17e4e28560}
+      \strng{authorfullhash}{8313b22ec75f880ac5049c17e4e28560}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of High Energy Physics}
+      \field{month}{2}
+      \field{number}{02}
+      \field{title}{Non-abelian finite gauge theories}
+      \field{volume}{1999}
+      \field{year}{1999}
+      \field{pages}{013\bibrangedash 013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1126-6708/1999/02/013
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088%2F1126-6708%2F1999%2F02%2F013
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088%2F1126-6708%2F1999%2F02%2F013
+      \endverb
+    \endentry
+    \entry{albertssonthesis}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6d1163e98744717ed0bfa9446a02fcac}{%
+           family={Albertsson},
+           familyi={A\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{6d1163e98744717ed0bfa9446a02fcac}
+      \strng{fullhash}{6d1163e98744717ed0bfa9446a02fcac}
+      \strng{bibnamehash}{6d1163e98744717ed0bfa9446a02fcac}
+      \strng{authorbibnamehash}{6d1163e98744717ed0bfa9446a02fcac}
+      \strng{authornamehash}{6d1163e98744717ed0bfa9446a02fcac}
+      \strng{authorfullhash}{6d1163e98744717ed0bfa9446a02fcac}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Superconformal D-branes and moduli spaces}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.48550/ARXIV.HEP-TH/0305188
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
