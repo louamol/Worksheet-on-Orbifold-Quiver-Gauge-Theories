@@ -23,7 +23,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.2}Adjoint representation and bi-fundamental fields}{8}{subsubsection.3.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3}Invariant configurations: general case}{8}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.3}Invariant configurations: general case}{9}{subsubsection.3.4.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.4}Bi-index notation}{10}{subsubsection.3.4.4}%
 \defcounter {refsection}{0}\relax 
@@ -47,19 +47,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7}Fractional branes}{17}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}$\mathcal {N}=2$ daughter theories}{17}{section.8}%
+\contentsline {section}{\numberline {8}$\mathcal {N}=2$ daughter theories}{18}{section.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1}Generalities}{17}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.1}Generalities}{18}{subsection.8.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.2}$S=\mathbb {C}\times \mathbb {C}^2/\mathbb {Z}_n$}{18}{subsection.8.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.3}$S=\mathbb {C}\times \mathbb {C}^2/\mathcal {D}_n$}{21}{subsection.8.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4}$S=\mathbb {C}\times \mathbb {C}^2/\mathcal {T},\mathcal {O},\mathcal {I}$}{21}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.4}$S=\mathbb {C}\times \mathbb {C}^2/\mathcal {T},\mathcal {O},\mathcal {I}$}{22}{subsection.8.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}$\mathcal {N}=1$ daughter theories}{21}{section.9}%
+\contentsline {section}{\numberline {9}$\mathcal {N}=1$ daughter theories}{22}{section.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1}$S=\mathbb {C}^3/\mathbb {Z}_n$}{21}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.1}$S=\mathbb {C}^3/\mathbb {Z}_n$}{22}{subsection.9.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {9.1.1}Actions of $\mathbb {Z}_n$ on $\mathbb {C}^3$}{22}{subsubsection.9.1.1}%
 \defcounter {refsection}{0}\relax 

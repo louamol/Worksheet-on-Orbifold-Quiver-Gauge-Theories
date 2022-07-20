@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1657292166 "main.bcf" "main.bbl" "main" 1658327117
+["biber main"] 1657292166 "main.bcf" "main.bbl" "main" 1658341706
   "bibliography.bib" 1654251486 19302 427069cab3030f3cc6a40147a01b2505 ""
-  "main.bcf" 1658327116 106678 bfbff28d37b2b9ecf61c163f4955b986 "pdflatex"
+  "main.bcf" 1658341705 106678 bfbff28d37b2b9ecf61c163f4955b986 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1658327114 "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Orbifold Quiver Gauge Theories/main.tex" "main.pdf" "main" 1658327117
+["pdflatex"] 1658341703 "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Orbifold Quiver Gauge Theories/main.tex" "main.pdf" "main" 1658341706
   "/home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0800.pk" 1607273538 19872 6d5f682c3a30633f20f37d5267114ac1 ""
   "/home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1607267403 25420 f2c23a7c3a7fea5cb4ae4a632310af13 ""
   "/home/louan/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1607273539 31952 3c609752e07479b75f1400c325a21382 ""
@@ -422,15 +422,15 @@
   "/home/louan/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1623060370 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/home/louan/.miktex/texmfs/install/tex/latex/zref/zref-abspage.sty" 1609679784 2275 d29aca6fd67823551cb07584e3681d5d ""
   "/home/louan/.miktex/texmfs/install/tex/latex/zref/zref-base.sty" 1609679784 20688 beaddf14d96104d4bf016523be5395c5 ""
-  "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Orbifold Quiver Gauge Theories/main.tex" 1658327112 132358 529de6d3f2c70490d16fd03b0c65d6e3 ""
+  "/home/louan/Documents/LaTeX/Worksheets/Worksheet on Orbifold Quiver Gauge Theories/main.tex" 1658341701 132561 5f531803f52c07607841f804e8487662 ""
   "Pictures/SU3finitequivers.png" 1653313669 170740 a783dc8c730d7f36a9d0889e21ce2fa3 ""
   "custom_macros.tex" 1653414228 5391 295b234a720913f7cfac2bace9d369d5 ""
-  "main.aux" 1658327116 23243 32f9a287158aa30f001ee01e81acbb2e "pdflatex"
+  "main.aux" 1658341705 23473 3ad19abd7871ff105f73ce66eb28c830 "pdflatex"
   "main.bbl" 1657292167 11744 d0c87fb0f62c648e20476cd90099b382 "biber main"
-  "main.out" 1658327116 9275 de66a04305d382eaf59360c42451e43c "pdflatex"
-  "main.run.xml" 1658327116 2307 fa280d158a7733084a6a66e2106e4193 "pdflatex"
-  "main.tex" 1658327112 132358 529de6d3f2c70490d16fd03b0c65d6e3 ""
-  "main.toc" 1658327116 7073 57f36b6513d87d1e28f656e4558ee44f "pdflatex"
+  "main.out" 1658341705 9275 de66a04305d382eaf59360c42451e43c "pdflatex"
+  "main.run.xml" 1658341705 2307 fa280d158a7733084a6a66e2106e4193 "pdflatex"
+  "main.tex" 1658341701 132561 5f531803f52c07607841f804e8487662 ""
+  "main.toc" 1658341705 7073 f137ba5ba4d59f3caf750d975fe91df7 "pdflatex"
   "worksheetclass.cls" 1656357142 6186 63353e57c260def210be553cd5879d93 ""
   (generated)
   "main.aux"
