@@ -582,13 +582,19 @@
         \item the action of $\Gamma$ on $\C^N$ (from some arbitrary $N$) that defines the embedding of $\Gamma$ in the gauge group $\U(N)$ and and dictates how the ``gauge part'' of the projection happens. Up until now, this action was completely arbitrary. In other words, the multiplicities $N_i$ are arbitrary, as long as they sum to $N$, which is arbitrary.
     \end{itemize}
     
-    Let is discuss the role of the second representations in more details. If the stack of branes trivially sits at a fixed point, which in our case is usually the origin, there is no problem. On the other hand, if the stack of branes moves away from the origin, this will break the $\Gamma$ symmetry. The only the configurations that are able to move away from the fixed point are the ones that are still $\Gamma$-invariant while doing so, i.e. the configurations where the stack of branes possesses a an image-stack in each $\Gamma$ sector. Each of this stacks must be related by $\Gamma$ and they move all together in the covering space such as to be set to a unique point in the quotient space. Since there are $\abs{\Gamma}$ sectors we need exactly $\abs{\Gamma}$ branes in total, one per sector. This means that $N$, the total number of branes in the covering space, cannot be arbitrary anymore. It must be of the form $N=n\abs{\Gamma}$, where $n$ now represents the number of brane in each stack. From the open string states point of view, this is means adding $n\abs{\Gamma}$ Chan-Paton factors, resulting in an $U(n\abs{\Gamma})$ gauge symmetry. $\Gamma$ then acts on the Chan-Paton factors and switch them between themselves. We now need to make sure that the string theory is consistent with that action.\todo{What is the link between moving axay from the fixed point and conformal invariance.} Let us insist on the fact that we can take $N$ arbitrary but in order to have configurations that can move aways from the fixed point, $N$ must be a multiple of $\Gamma$, otherwise the stack of branes juste stays at the fixed point.
+    Let is discuss the role of the second representations in more details. If the stack of branes trivially sits at a fixed point, which in our case is usually the origin, there is no problem. On the other hand, if the stack of branes moves away from the origin, this will break the $\Gamma$ symmetry. The only the configurations that are able to move away from the fixed point are the ones that are still $\Gamma$-invariant while doing so, i.e. the configurations where the stack of branes possesses an image-stack in each $\Gamma$ sector. Each of this stacks must be related by $\Gamma$ and they move all together in the covering space such as to be set to a unique point in the quotient space. Since there are $\abs{\Gamma}$ sectors we need exactly $\abs{\Gamma}$ branes in total, one per sector. This means that $N$, the total number of branes in the covering space, cannot be arbitrary anymore. It must be of the form $N=n\abs{\Gamma}$, where $n$ now represents the number of brane in each stack. From the open string states point of view, this is means adding $n\abs{\Gamma}$ Chan-Paton factors, resulting in an $U(n\abs{\Gamma})$ gauge symmetry. $\Gamma$ then acts on the Chan-Paton factors and switch them between themselves. We now need to make sure that the string theory is consistent with that action.\todo{What is the link between moving axay from the fixed point and conformal invariance.} Let us insist on the fact that we can take $N$ arbitrary but in order to have configurations that can move aways from the fixed point, $N$ must be a multiple of $\Gamma$, otherwise the stack of branes just stays at the fixed point.
 
     What does it have to do with the choice of embedding of $\Gamma$ in the gauge group? If branes move away from the origin \todo{complete}.
     
-    What are the conditions to get a superconformal daughter theory? The answer lies in the choice of the second action, i.e. on the choice of embedding of $\Gamma$ in the gauge group. One can show \cite{vafa1998} that to have conformal invariance, we have to use the regular representation of $\Gamma$. The resulting embedding will be called \emph{regular embedding}. This isonly possible of course if $N=\abs{\Gamma}$. Actually, considering stacks of $N$ branes, we can consider that the rank of the gauge group is $N\abs{\Gamma}$ (we change our $N$) so that the gauge group is $\U(N\abs{\Gamma})$. Recall that the multiplicity of each irredicuble representation in the decomposition of the regular representation is the dimension of the irrep, i.e. $N_i=n_i\equiv\dim\rho_i$ meaning that the gauge group is broken to
+    What are the conditions to get a superconformal daughter theory? The answer lies in the choice of the second action, i.e. on the choice of embedding of $\Gamma$ in the gauge group. One can show \cite{vafa1998} that to have conformal invariance, we have to use the regular representation of $\Gamma$. The resulting embedding will be called \emph{regular embedding}. This is only possible of course if $N=n\abs{\Gamma}$. Actually, considering stacks of $n$ branes, $\Gamma$ acts with $\rho^n_{\text{reg}}$. Recall that the multiplicity of each irredicuble representation in the decomposition of the regular representation is the dimension of the irrep, therefore
     \begin{equation}
-        G_{\text{proj}}=\bigotimes_{i\in I}\SU(N n_i)
+        \rho^n_{\text{reg}} = \left(\bigoplus_{i\in I}\rho^{n_i}_i\right)^n = \bigoplus_{i\in I}\rho^{nn_i}_i
+    \end{equation}
+    where $n_i\equiv\dim\rho_i$. Comparing to \eqref{eq:decomp:line1}, this means that $N_i=nn_i$.
+    
+    The gauge group is now $\U(n\abs{\Gamma})$ and it is broken to
+    \begin{equation}
+        G_{\text{proj}}=\bigotimes_{i\in I}\SU(n n_i)
     \end{equation}
     at low energy. Let us be clear and mention that any choice of multiplicities $N_i$ is valid and gives a supersymmetric daughter theory, but this theory is conformal only if $N_i=n\dim\rho_i$.
 
@@ -1532,6 +1538,247 @@
     \end{enumerate}
 
     All the details are presented in \cite{albertssonthesis}.
+
+\appendix
+
+\section{Some finite subgroups}
+
+    \subsection{Finite subgroups of $\SU(2)$ and $\SL(2,\C)$}\label{app:su2subgroups}
+
+        \subsubsection{Finite subgroups}
+
+            The first thing to recall is that every finite subgroup of $\SL(2,\C)$ is isomorphic to a subgroup of $\SU(2,\C)$ and vice-versa, so we equivalently talk about the subgroups of $\SU(2)$. The finite subgroups of $\SU(2)$, called the \emph{binary polyhedral groups}, are the doubles covers of the finite subgroups of $\SO(3)$ that are called \emph{polyhedral groups}. They simply constitutes the symmetries of the Platonic solids. The groups fall into two infinite series, associated to the regular polygons, as well as three exceptional, associated with the 5 regular polyhedra: the tetrahedron (self-dual), the cube (and its dual octahedron), the icosahedron (and its dual dodecahedron).
+
+            More precisely, the finite subgroups of $\SL(2,\C)$ are
+            \begin{itemize}
+                \item $\Z_n$ : cyclic group of order $n$ ($n\geq2$) generated by
+                \begin{equation}
+                    \begin{bmatrix}
+                        \zeta_m & 0\\
+                        0 & \zeta^{-1}_m
+                    \end{bmatrix}
+                \end{equation}
+                \item $2\D_n$ : \emph{binary dihedral groups} (also known as the \emph{dicyclic group}) of order $4n$ ($n\geq1$) generated by
+                \begin{equation}
+                    A \equiv
+                    \begin{bmatrix}
+                        \zeta_{2n} & 0\\
+                        0 & \zeta^{-1}_{2n}
+                    \end{bmatrix}\quad \text{ and }
+                    B \equiv 
+                    \begin{bmatrix}
+                        0 & i\\
+                        i & 0
+                    \end{bmatrix}
+                \end{equation}
+                One can show that $A^n=B^2$ and that $AB=BA^{-1}$ so that $2\D_n=\{B^bA^a|0\leq b \leq 3, 0\leq a \leq n-1\}$. This rewriting of the most general element of the group will be useful.
+                \item $2\mathcal{T}$ : \emph{binary tetrahedral group} of order $24$ generated by $D_2$ and
+                \begin{equation}
+                    C \equiv \frac{1}{\sqrt{2}}
+                    \begin{bmatrix}
+                        \zeta_8 & \zeta^3_8\\
+                        \zeta_8 & \zeta^7_8
+                    \end{bmatrix}
+                \end{equation}
+                \item $2\mathcal{O}$ : \emph{binary octahedral group} of order $48$ generated by $\mathcal{T}$ and
+                \begin{equation}
+                    D \equiv 
+                    \begin{bmatrix}
+                        \zeta^3_8 & 0\\
+                        0 & \zeta^5_8
+                    \end{bmatrix}
+                \end{equation}
+                \item $2\mathcal{I}$ : \emph{binary icosahedral group} of order $120$ generated by
+                \begin{equation}
+                    E \equiv -\frac{1}{\sqrt{5}}
+                    \begin{bmatrix}
+                        \zeta^4_5-\zeta_5 & \zeta^2_5-\zeta^3_5\\
+                        \zeta^2_5-\zeta^3_5 & \zeta_5-\zeta^4_5
+                    \end{bmatrix}\quad \text{ and }
+                    F \equiv -\frac{1}{\sqrt{5}}
+                    \begin{bmatrix}
+                        \zeta^2_5-\zeta^4_4 & \zeta^4_5-1\\
+                        1-\zeta_5 & \zeta^3_5-\zeta_5
+                    \end{bmatrix}
+                \end{equation}
+            \end{itemize}
+            with $\zeta_m\equiv e^{i\frac{2\pi}{m}}$ such that $(\zeta_m)^m=1$. Note that the orders are all divisible by $2$. This is because the center of $\SU(2)$ is $\Z_2$.
+
+        \subsubsection{Irreducible representations}\label{sec:irrep}
+
+            \begin{itemize}
+                \item $\Z_n$ has $n$ irreducible representations. They are all $1$-dimensional (since $\Z_n$ is abelian) and are given by
+                \begin{equation}
+                    \rho_k(g)=\zeta^k_n
+                \end{equation}
+                with $k=0,\dots,n-1$.
+                \item $2\D_n$ has $n+3$ irreducible representations: $4$ of dimension $1$ and $n-1$ of dimension $2$. The $1$-dimensional ones are given by
+                \begin{equation*}
+                \begin{array}{|c|c|c|c|}
+                    \hline
+                    n & \rho(A) & \rho(B) & \rho(B^bA^a) \\
+                    \hline
+                    \multirow[c]{4}{*}{\text{even}} & \multirow[c]{2}{*}{1} & 1 & 1 \\ \cline{3-4}
+                    & & -1 & (-1)^b \\ \cline{2-4}
+                    & \multirow[c]{2}{*}{-1} & 1 & (-1)^a \\ \cline{3-4}
+                    & & -1 & (-1)^{a+b} \\
+                    \hline
+                    \multirow[c]{4}{*}{\text{odd}} & \multirow[c]{2}{*}{1} & 1 & 1 \\ \cline{3-4}
+                    & & -1 & (-1)^b \\ \cline{2-4}
+                    & \multirow[c]{2}{*}{-1} & i & (-1)^ai^b \\ \cline{3-4}
+                    & & -i & (-1)^a(-i)^b \\
+                    \hline
+                \end{array}
+                \end{equation*}
+                and the $2$-dimensional ones are given binary by
+                \begin{align*}
+                    \rho_r(A) &= 
+                    \begin{bmatrix}
+                        e^{i\frac{\pi}{n}r} & 0\\
+                        0 & e^{-i\frac{\pi}{n}r} 
+                    \end{bmatrix}\\
+                    \rho_r(B) &= 
+                    \begin{bmatrix}
+                        0 & -1 \\
+                        1 & 0
+                    \end{bmatrix}
+                \end{align*}
+                with $r=1,\dots,n-1$.
+            \end{itemize}
+
+        \subsubsection{Character tables}
+
+            \begin{table}[H]
+                \centering
+                {\small
+                \begin{equation*}
+                        \begin{array}{|c|c|c|c|c|c|}
+                            \hline
+                            \text{conj. class repr.} & e & M & M^2 & \dots & M^{n-1} \\ \hline
+                            \text{conj. class order} & 1 & 1 & 1 & \dots & 1 \\
+                            \hline
+                            V_0 & 1 & 1 & 1 & \dots & 1 \\
+                            V_1 & 1 & \zeta_n & \zeta^2_n & \dots & \zeta^{n-1}_n \\
+                            V_2 & 1 & \zeta^2_n & \zeta^4_n & \dots & \zeta^{2(n-1)}_n \\
+                            V_3 & 1 & \zeta^3_n & \zeta^6_n & \dots & \zeta^{3(n-1)}_n \\
+                            \vdots & \vdots & \vdots & \vdots & \ddots &  \\
+                            V_{n-1} & 1 & \zeta^{(n-1)}_n & \zeta^{2(n-1)}_n & \dots & \zeta^{(n-1)^2}_n \\ \hline
+                            W & 2 & 2\cos\left(\frac{2\pi}{n}\right) & 2\cos\left(\frac{4\pi}{n}\right) & \dots & 2\cos\left(\frac{2\pi(n-1)}{n}\right) \\ \hline 
+                            \end{array}
+                    \end{equation*}}
+                \caption{Character table of $\Z_n$.}
+            \end{table}
+
+            \begin{table}[H]
+                \centering
+                {\small
+                \begin{equation*}
+                        \begin{array}{|c|c|c|c|c|c|c|c|c|}
+                            \hline
+                            \text{conj. class repr.} & e & B^2 & B & BA & A & A^2 & \dots & A^{n-1} \\ \hline
+                            \text{conj. class order} & 1 & 1 & n & n & 2 & 2 & \dots & 2 \\
+                            \hline
+                            V_0 & 1 & 1 & 1 & 1 & 1 & 1 & \dots & 1 \\ 
+                            V_1 & 1 & 1 & -1 & -1 & 1 & 1 & \dots & 1 \\ 
+                            V_2 & 1 & 1 \text{ ou } -1 & 1 \text{ ou } i & -1 \text{ ou } -i & -1 & 1 & \dots & (-1)^{n-1} \\ 
+                            V_3 & 1 & 1 \text{ ou } -1 & -1 \text{ ou } -i & 1 \text{ ou } i & -1 & 1 & \dots & (-1)^{n-1} \\
+                            V_4 & 2 & -2 & 0 & 0 & 2\cos\frac{\pi}{n} & 2\cos\frac{2\pi}{n} & \dots & 2\cos\frac{(n-1)\pi}{n}\\
+                            V_5 & 2 & 2 & 0 & 0 & 2\cos\frac{2\pi}{n} & 2\cos\frac{4\pi}{n} & \dots & 2\cos\frac{2(n-1)\pi}{n}\\
+                            \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \ddots & \vdots \\
+                            V_{n+2} & 2 & 2(-1)^{n-1} & 0 & 0 & 2\cos\frac{(n-1)\pi}{n} & 2\cos\frac{2(n-1)\pi}{n} & \dots & 2\cos\frac{(n-1)^2\pi}{n} \\ \hline
+                            W & 2 & -2 & 0 & 0 & 2\cos\left(\frac{\pi}{n}\right) & 2\cos\left(2\frac{\pi}{n}\right) & \dots & 2\cos\left(\frac{\pi}{n}(n-1)\right) \\ \hline
+                            \end{array}
+                    \end{equation*}}
+                \caption{Character table of $2\D_n$.}
+            \end{table}
+
+            \begin{table}[H]
+                \centering
+                {\small
+                \begin{equation*}
+                        \begin{array}{|c|c|c|c|c|c|c|c|}
+                            \hline
+                            \text{conj. class repr.} & e & B^2 & B & C & C^2 & C^4 & C^5 \\ \hline
+                            \text{conj. class order} & 1 & 1 & 6 & 4 & 4 & 4 & 4\\
+                            \hline
+                            V_0 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\
+                            V_1 & 2 & -2 & 0 & 1 & -1 & -1 & 1 \\
+                            V_2 & 3 & 3 & -1 & 0 & 0 & 0 & 0 \\
+                            V_3 & 2 & -2 & 0 & e^{i\frac{2\pi}{3}} & -e^{i\frac{2\pi}{3}} & -e^{i\frac{4\pi}{3}} & e^{i\frac{4\pi}{3}} \\
+                            V_3^{\lor} & 2 & -2 & 0 & e^{i\frac{4\pi}{3}} & -e^{i\frac{4\pi}{3}} & -e^{i\frac{2\pi}{3}} & e^{i\frac{2\pi}{3}} \\
+                            V_4 & 1 & 1 & 1 & e^{i\frac{2\pi}{3}} & e^{i\frac{2\pi}{3}} & e^{i\frac{4\pi}{3}} & e^{i\frac{4\pi}{3}} \\
+                            V_4^{\lor} & 1 & 1 & 1 & e^{i\frac{4\pi}{3}} & e^{i\frac{4\pi}{3}} & e^{i\frac{2\pi}{3}} & e^{i\frac{2\pi}{3}} \\ \hline
+                            W & 2 & -2 & 0 & 1 & -1 & -1 & 1 \\ \hline
+                        \end{array}
+                    \end{equation*}}
+                \caption{Character table of $2\mathcal{T}$.}
+            \end{table}
+
+            \begin{table}[H]
+                \centering
+                {\small
+                \begin{equation*}
+                        \begin{array}{|c|c|c|c|c|c|c|c|c|}
+                            \hline
+                            \text{conj. class repr.} & e & B^2 & B & C & C^2 & D & BD & D^3 \\ \hline
+                            \text{conj. class order} & 1 & 1 & 6 & 8 & 8 & 6 & 12 & 6\\
+                            \hline
+                            V_0 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\
+                            V_1 & 2 & -2 & 0 & 1 & -1 & -\sqrt{2} & 0 & \sqrt{2} \\
+                            V_2 & 3 & 3 & -1 & 0 & 0 & 1 & -1 & 1 \\
+                            V_3 & 4 & -4 & 0 & -1 & 1 & 0 & 0 & 0 \\
+                            V_4 & 3 & 3 & -1 & 0 & 0 & -1 & 1 & -1 \\
+                            V_5 & 2 & -2 & 0 & 1 & -1 & \sqrt{2} & 0 & -\sqrt{2} \\
+                            V_6 & 1 & 1 & 1 & 1 & 1 & -1 & -1 & -1 \\
+                            V_7 & 2 & 2 & 2 & -1 & -1 & 0 & 0 & 0 \\ \hline
+                            W & 2 & -2 & 0 & 1 & -1 & -\sqrt{2} & 0 & \sqrt{2} \\ \hline
+                        \end{array}
+                    \end{equation*}}
+                \caption{Character table of $2\mathcal{O}$.}
+            \end{table}
+
+            \begin{table}[H]
+                \centering
+                {\small
+                \begin{equation*}
+                        \begin{array}{|c|c|c|c|c|c|c|c|c|c|}
+                            \hline
+                            \text{conj. class repr.} & e & E^2 & E & F & F^2 & EF & (EF)^2 & (EF)^3 & (EF)^4 \\ \hline
+                            \text{conj. class order} & 1 & 1 & 30 & 20 & 20 & 12 & 12 & 12 & 12\\
+                            \hline
+                            V_0 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\
+                            V_1 & 2 & -2 & 0 & 1 & -1 & \vp^+ & -\vp^- & \vp^- & -\vp^+ \\
+                            V_2 & 3 & 3 & -1 & 0 & 0 & \vp^+ & \vp^- & \vp^- & \vp^+ \\
+                            V_3 & 4 & -4 & 0 & -1 & 1 & 1 & -1 & 1 & -1 \\
+                            V_4 & 5 & 5 & 1 & -1 & -1 & 0 & 0 & 0 & 0 \\
+                            V_5 & 6 & -6 & 0 & 0 & 0 & -1 & 1 & -1 & 1 \\
+                            V_6 & 4 & 4 & 0 & 1 & 1 & -1 & -1 & -1 & -1 \\
+                            V_7 & 2 & -2 & 0 & 1 & -1 & \vp^- & -\vp^+ & \vp^+ & -\vp^- \\
+                            V_8 & 3 & 3 & -1 & 0 & 0 & \vp^- & \vp^+ & \vp^+ & \vp^- \\ \hline
+                            W & 2 & -2 & 0 & 1 & -1 & \vp^+ & -\vp^- & \vp^- & -\vp^+ \\ \hline
+                        \end{array}
+                    \end{equation*}}
+                \caption{Character table of $2\mathcal{I}$, with $\vp^\pm\equiv(1\pm\sqrt{5})/2$.}
+            \end{table}
+
+
+    \subsection{Finite subgroups of $\SU(3)$}
+
+        The finite subgroups of $\SU(3)$ are
+        \begin{itemize}
+            \item the finite subgroups of $\SU(2)$
+            \item $\Delta(3n^2)=(\Z_n\times\Z_n)\rtimes\Z_3$ and $\Delta(3n^2)=(\Z_n\times\Z_n)\rtimes S^3$
+            \item the exceptional groups
+        \end{itemize}
+        so there are $2$ infinite series and $5$ exceptional subgroups. Note that they are all divisible by $3$ because the center of $\SU(3)$ is $\Z_3$.
+
+        \begin{theorem*}
+            Every abelian finite subgroup of $\SU(3)$ is isomorphic to $\Z_m\times\Z_n$.
+        \end{theorem*}
+
+    \subsection{Finite subgroups of $\SU(4)$}
+
+        See \cite{Hanany:1999sp}.
 
 \printbibliography
 

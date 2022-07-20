@@ -1898,9 +1898,9 @@ INPUT ./main.toc
 INPUT main.toc
 INPUT main.toc
 INPUT /home/louan/.miktex/texmfs/data/pdftex/config/pdftex.map
-OUTPUT main.toc
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecrm0700.tfm
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecrm0500.tfm
+OUTPUT main.toc
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecti1000.tfm
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecrm0900.tfm
 INPUT /home/louan/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecrm1200.tfm
@@ -2106,6 +2106,8 @@ INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pf
 INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb
 INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb
 INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb
 INPUT /home/louan/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb

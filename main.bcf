@@ -2356,6 +2356,7 @@
     <bcf:citekey order="8">Hanany:1999sp</bcf:citekey>
     <bcf:citekey order="9">Hanany_1999</bcf:citekey>
     <bcf:citekey order="10">albertssonthesis</bcf:citekey>
+    <bcf:citekey order="11">Hanany:1999sp</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
